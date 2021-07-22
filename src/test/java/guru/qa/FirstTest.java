@@ -7,7 +7,7 @@ public class FirstTest {
 
     @Test
     void firstTest() {
-        System.out.println("firstTest!");
+        System.out.println("First Test!!!!");
         Selenide.open("http://ya.ru");
     }
 }
