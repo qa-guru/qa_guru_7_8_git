@@ -7,7 +7,7 @@ repositories {
 }
 
 def selenideVersion = "5.23.0",
-    junitVersion = "5.7.1"
+    junitVersion = "5.8.0-M1"
 
 dependencies {
     testImplementation (
