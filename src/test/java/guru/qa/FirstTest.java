@@ -7,7 +7,7 @@ public class FirstTest {
 
     @Test
     void firstTest() {
-        System.out.println("First Test!!!!");
+        System.out.println("Directly from github editor!!!!");
         Selenide.open("http://ya.ru");
     }
 }
